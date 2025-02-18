@@ -1,0 +1,6 @@
+within riser_tensioner.devModels;
+
+model Test1
+equation
+
+end Test1;
